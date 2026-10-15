@@ -19,7 +19,3 @@ fashion-landing-pages/
 ├── tailored-suits/
 └── README.md
 ```
-
-## Run a page
-
-Open the folder's `index.html` in a browser, or serve it locally with a tool like Live Server.
